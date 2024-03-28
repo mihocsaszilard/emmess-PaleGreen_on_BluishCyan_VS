@@ -8,7 +8,7 @@
     <img src="https://github.com/mihocsaszilard/emmess-PaleGreen_on_BluishCyan_VS/blob/master/emmess-PaleGreen_on_BluishCyan_VS/assets/banner.png?"/>
   </p>
 
-Navigate to the downloaded .vsix file and run it. After successful installation, the theme should be available in Visual Studio.
+Dovnload the `.vsix` file from `emmess-PaleGreen_on_BluishCyan_VS/vsix` folder, navigate to the downloaded `.vsix` file and run it. After successful installation, the theme should be available in Visual Studio.
 
 Feedback are appreciated!
 
