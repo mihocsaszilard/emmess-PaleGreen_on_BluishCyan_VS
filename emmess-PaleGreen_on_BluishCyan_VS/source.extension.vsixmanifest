@@ -5,8 +5,8 @@
         <DisplayName>emmess_PaleGreen_on_BluishCyan_VS</DisplayName>
         <Description xml:space="preserve">Low contrast, dark Visual Studio theme for a better coding experience</Description>
         <License>LICENSE.txt</License>
-        <Icon>assets\emmess100x100.jpg</Icon>
-        <PreviewImage>assets\banner.png</PreviewImage>
+        <Icon>emmess100x100.jpg</Icon>
+        <PreviewImage>banner.png</PreviewImage>
         <Tags>visualstudio, theme, dark</Tags>
     </Metadata>
     <Installation>
